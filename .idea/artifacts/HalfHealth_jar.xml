@@ -3,6 +3,7 @@
     <output-path>$USER_HOME$/Desktop/plugin_development</output-path>
     <root id="archive" name="HalfHealth.jar">
       <element id="module-output" name="HalfHealth.main" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
     </root>
   </artifact>
 </component>
