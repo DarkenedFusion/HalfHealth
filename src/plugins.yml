@@ -1,0 +1,12 @@
+name: HalfHealth
+version: 1.0.0
+api-version: 1.15
+author: darkenedfusion
+description: A plugin that allows you to set the default players health to 5!
+main: io.github.darkenedfusion.HalfHealth.Main
+commands:
+  halfhealth:
+    description: Sets everyones health to 5!
+    usage: /halfhealth
+    permission: halfhealth.command
+    permission-message: No permission!
